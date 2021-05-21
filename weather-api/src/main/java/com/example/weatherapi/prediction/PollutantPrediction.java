@@ -9,25 +9,18 @@ import lombok.*;
 public class PollutantPrediction{
 
     // class variables
-    double xValues[] = new double[74];
+    double x[] = new double[74];
 
     // class constructor
-    public Challenge(double[] xValues){
-        this.xValues = xValues;
+    public PollutantPrediction(double[] x){
+        this.x = x;
     }
 
-    // get class variable
-    public double[] getXValues(){
-        return this.xValues;
+    // get y, the prediction
+    public float predict(){
+        return null;
     }
 
-    // equals
-
-    // hashCode
-
-    // toString
-
-    // get model
-
-    // return target
+    
+   
 }
