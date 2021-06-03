@@ -9,7 +9,8 @@ import lombok.*;
 public class PollutantPrediction{
 
     // class variables
-    double x[] = new double[74];
+    double xWeather[] = new double[6];
+    double xPollutants[] = new double[60];
 
     // class constructor
     public PollutantPrediction(double[] x){
