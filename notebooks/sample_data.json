@@ -1,0 +1,2856 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8dded6f5-61d4-4a8f-bb61-2c3c87052e2a')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8dded6f5-61d4-4a8f-bb61-2c3c87052e2a')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8dded6f5-61d4-4a8f-bb61-2c3c87052e2a')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8dded6f5-61d4-4a8f-bb61-2c3c87052e2a')/$value"
+                },
+                "Id": "8dded6f5-61d4-4a8f-bb61-2c3c87052e2a",
+                "Name": "S2A_MSIL1C_20191116T085231_N0208_R107_T36UVA_20191116T092036",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "783006093",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1573908246552)\/",
+                "IngestionDate": "\/Date(1573908218590)\/",
+                "ModificationDate": "\/Date(1608038754014)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1573894351024)\/",
+                    "End": "\/Date(1573894351024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "771B2B337D5435E19D6348F5C0A677B0"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>50.06023986129748,31.602130194124204 50.10800419005087,31.620812094465105 50.25398780090871,31.678278802010084 50.399992306355614,31.735985335647825 50.544859524314944,31.79411725461887 50.552210622261306,33.137769755767614 49.56467629785398,33.134970502622025 49.55648784343155,31.616762732856106 50.06023986129748,31.602130194124204</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8dded6f5-61d4-4a8f-bb61-2c3c87052e2a')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8dded6f5-61d4-4a8f-bb61-2c3c87052e2a')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8dded6f5-61d4-4a8f-bb61-2c3c87052e2a')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8dded6f5-61d4-4a8f-bb61-2c3c87052e2a')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('5c859622-9269-4781-b31a-37d38e6ee8dd')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('5c859622-9269-4781-b31a-37d38e6ee8dd')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('5c859622-9269-4781-b31a-37d38e6ee8dd')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('5c859622-9269-4781-b31a-37d38e6ee8dd')/$value"
+                },
+                "Id": "5c859622-9269-4781-b31a-37d38e6ee8dd",
+                "Name": "S2A_MSIL1C_20190709T084601_N0208_R107_T38WMC_20190709T094251",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "71912734",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1562674453800)\/",
+                "IngestionDate": "\/Date(1562674431067)\/",
+                "ModificationDate": "\/Date(1597108996613)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1562661961024)\/",
+                    "End": "\/Date(1562661961024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "3AB6C6FED156880D5EDAB30E453FAF19"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>69.5768372130312,45.25072821902355 69.58131641203626,45.21724260061749 69.59011796408949,45.152136294106086 69.59378979033116,45.12511343376854 69.59596643455019,45.127796160003456 69.61121584445632,45.01096031494431 69.67580667810378,44.52062341958858 69.67921830530108,44.524757084048446 69.81754758526343,44.69126237485276 69.95575343823721,44.860187065824846 70.09385025946162,45.031520471966246 70.23180983815871,45.2052339294202 70.27390602235467,45.259112740163864 69.5768372130312,45.25072821902355</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('5c859622-9269-4781-b31a-37d38e6ee8dd')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('5c859622-9269-4781-b31a-37d38e6ee8dd')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('5c859622-9269-4781-b31a-37d38e6ee8dd')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('5c859622-9269-4781-b31a-37d38e6ee8dd')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('207d3719-1521-4fd6-b023-79a0b077d67e')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('207d3719-1521-4fd6-b023-79a0b077d67e')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('207d3719-1521-4fd6-b023-79a0b077d67e')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('207d3719-1521-4fd6-b023-79a0b077d67e')/$value"
+                },
+                "Id": "207d3719-1521-4fd6-b023-79a0b077d67e",
+                "Name": "S2A_MSIL2A_20191116T035021_N0213_R104_T47PML_20191116T075234",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "856719020",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1573908256997)\/",
+                "IngestionDate": "\/Date(1573908077871)\/",
+                "ModificationDate": "\/Date(1573908256997)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1573876221024)\/",
+                    "End": "\/Date(1573876221024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "5FEFEB075F9505C16FA0A7F28F638A59"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>9.951281666353541,98.99604311365724 9.830293423636292,98.96807331387181 9.681961471946796,98.93454193549809 9.533627105295295,98.90062268395552 9.385148315758029,98.86680452026398 9.23659358538926,98.8329396505324 9.088236571342266,98.7980725827456 8.957917163515472,98.7692242189112 8.957163490003405,98.0899772249924 9.95016277864261,98.08736412982451 9.951281666353541,98.99604311365724</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('207d3719-1521-4fd6-b023-79a0b077d67e')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('207d3719-1521-4fd6-b023-79a0b077d67e')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('207d3719-1521-4fd6-b023-79a0b077d67e')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('207d3719-1521-4fd6-b023-79a0b077d67e')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ae08fafc-b402-4d37-b864-0b0bd0f15362')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ae08fafc-b402-4d37-b864-0b0bd0f15362')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ae08fafc-b402-4d37-b864-0b0bd0f15362')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ae08fafc-b402-4d37-b864-0b0bd0f15362')/$value"
+                },
+                "Id": "ae08fafc-b402-4d37-b864-0b0bd0f15362",
+                "Name": "S3A_SL_1_RBT____20190708T075309_20190708T075609_20190709T111713_0180_046_349_0720_LN2_O_NT_003",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "498389619",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1562674878449)\/",
+                "IngestionDate": "\/Date(1562674764576)\/",
+                "ModificationDate": "\/Date(1598827256501)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1562572388866)\/",
+                    "End": "\/Date(1562572568866)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "442284CBD4CB2865FC273C73B61469E7"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>54.4892,-145.602 54.4495,-146.386 54.4072,-147.174 54.3548,-147.948 54.3071,-148.745 54.2476,-149.511 54.1783,-150.291 54.1054,-151.047 54.0307,-151.816 53.9541,-152.596 53.8688,-153.351 53.784,-154.117 53.6856,-154.865 53.5859,-155.623 53.4809,-156.368 53.3717,-157.122 53.2587,-157.856 53.1422,-158.592 53.0203,-159.328 52.8943,-160.055 52.7621,-160.789 52.6286,-161.507 52.4894,-162.225 52.3475,-162.933 52.1989,-163.647 52.044,-164.339 51.8855,-165.03 51.7243,-165.736 51.5661,-166.414 51.391,-167.092 51.3237,-167.358 48.8267,-165.826 46.2691,-164.413 43.6961,-163.122 41.1098,-161.935 41.1675,-161.71 41.309,-161.13 41.4485,-160.549 41.5841,-159.978 41.7244,-159.39 41.855,-158.796 41.9775,-158.213 42.1023,-157.615 42.2228,-157.02 42.3402,-156.426 42.4644,-155.823 42.5759,-155.226 42.6847,-154.621 42.7897,-154.019 42.8924,-153.404 42.9923,-152.789 43.0809,-152.175 43.1756,-151.566 43.2698,-150.959 43.352,-150.338 43.4326,-149.716 43.5157,-149.101 43.5872,-148.465 43.6597,-147.842 43.7307,-147.225 43.8007,-146.595 43.857,-145.961 43.9158,-145.332 43.9712,-144.701 44.023,-144.069 46.6528,-144.466 49.281,-144.855 51.9077,-145.236 54.4892,-145.602</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ae08fafc-b402-4d37-b864-0b0bd0f15362')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ae08fafc-b402-4d37-b864-0b0bd0f15362')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ae08fafc-b402-4d37-b864-0b0bd0f15362')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ae08fafc-b402-4d37-b864-0b0bd0f15362')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('936f86fd-4235-477e-811e-5d0ddf2b29b1')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('936f86fd-4235-477e-811e-5d0ddf2b29b1')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('936f86fd-4235-477e-811e-5d0ddf2b29b1')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('936f86fd-4235-477e-811e-5d0ddf2b29b1')/$value"
+                },
+                "Id": "936f86fd-4235-477e-811e-5d0ddf2b29b1",
+                "Name": "S1B_IW_RAW__0SDV_20191116T102328_20191116T102400_018951_023BF9_6312",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "1633583257",
+                "ChildrenNumber": "0",
+                "Value": null,
+                "CreationDate": "\/Date(1573908303614)\/",
+                "IngestionDate": "\/Date(1573908298156)\/",
+                "ModificationDate": "\/Date(1606927714546)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1573899808134)\/",
+                    "End": "\/Date(1573899840534)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "14E552368D72EC4AF5472A3C5B62F037"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>-15.5200,-73.7608 -17.4579,-74.2629 -17.8453,-71.9699 -15.8976,-71.4913 -15.5200,-73.7608 -15.5200,-73.7608</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('936f86fd-4235-477e-811e-5d0ddf2b29b1')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('936f86fd-4235-477e-811e-5d0ddf2b29b1')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('936f86fd-4235-477e-811e-5d0ddf2b29b1')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('936f86fd-4235-477e-811e-5d0ddf2b29b1')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0e972093-b0ed-4e18-8d75-b504527c184d')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0e972093-b0ed-4e18-8d75-b504527c184d')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0e972093-b0ed-4e18-8d75-b504527c184d')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0e972093-b0ed-4e18-8d75-b504527c184d')/$value"
+                },
+                "Id": "0e972093-b0ed-4e18-8d75-b504527c184d",
+                "Name": "S2A_MSIL1C_20191116T085231_N0208_R107_T36UVC_20191116T092036",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "446910952",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1573908243451)\/",
+                "IngestionDate": "\/Date(1573908202609)\/",
+                "ModificationDate": "\/Date(1608038753734)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1573894351024)\/",
+                    "End": "\/Date(1573894351024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "111BDB344C0DF02AC4A7829ECEF34820"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>51.357544859824685,32.12580256917954 51.42145441481923,32.15208422070913 51.56723192544326,32.21208653529715 51.71292423528711,32.27262916110528 51.858595093813214,32.333459613337155 52.00428311920412,32.39435515683563 52.150007431869184,32.455815648079565 52.29572252504469,32.51767970704187 52.34700154137747,32.539716037604606 52.350386283733314,33.143290766756216 51.36315784303349,33.14018879864438 51.357544859824685,32.12580256917954</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0e972093-b0ed-4e18-8d75-b504527c184d')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0e972093-b0ed-4e18-8d75-b504527c184d')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0e972093-b0ed-4e18-8d75-b504527c184d')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0e972093-b0ed-4e18-8d75-b504527c184d')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('4e83ee7c-a140-4cda-bfee-a95e81082fae')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('4e83ee7c-a140-4cda-bfee-a95e81082fae')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('4e83ee7c-a140-4cda-bfee-a95e81082fae')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('4e83ee7c-a140-4cda-bfee-a95e81082fae')/$value"
+                },
+                "Id": "4e83ee7c-a140-4cda-bfee-a95e81082fae",
+                "Name": "S2A_MSIL2A_20200926T043711_N0214_R033_T46SDG_20200926T074244",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "1088372602",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164622618)\/",
+                "IngestionDate": "\/Date(1601164556346)\/",
+                "ModificationDate": "\/Date(1601164622618)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601095031024)\/",
+                    "End": "\/Date(1601095031024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "C2C0A54535F36773C440682B45FEED61"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>37.9420809165272,91.86147092120096 37.94753713280259,93.1110860058322 36.957830487987216,93.10963188667115 36.95256487264268,91.87637049158548 37.9420809165272,91.86147092120096</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('4e83ee7c-a140-4cda-bfee-a95e81082fae')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('4e83ee7c-a140-4cda-bfee-a95e81082fae')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('4e83ee7c-a140-4cda-bfee-a95e81082fae')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('4e83ee7c-a140-4cda-bfee-a95e81082fae')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bc7e5ed6-6185-49b1-a876-0443fe882493')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bc7e5ed6-6185-49b1-a876-0443fe882493')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bc7e5ed6-6185-49b1-a876-0443fe882493')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bc7e5ed6-6185-49b1-a876-0443fe882493')/$value"
+                },
+                "Id": "bc7e5ed6-6185-49b1-a876-0443fe882493",
+                "Name": "S2A_MSIL2A_20200926T043711_N0214_R033_T46SEJ_20200926T074244",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "1160178925",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164741913)\/",
+                "IngestionDate": "\/Date(1601164695815)\/",
+                "ModificationDate": "\/Date(1601164741913)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601095031024)\/",
+                    "End": "\/Date(1601095031024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "3DD6B6089E62F4E99BB8255F80A476A5"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>38.91624419821726,94.26633481335139 38.77935343077485,94.21920911531276 38.754322783383266,94.21034135014634 38.760864457162924,92.99976980397042 39.7502679270046,92.99976654562275 39.74319619212293,94.28128034867093 38.91624419821726,94.26633481335139</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bc7e5ed6-6185-49b1-a876-0443fe882493')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bc7e5ed6-6185-49b1-a876-0443fe882493')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bc7e5ed6-6185-49b1-a876-0443fe882493')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bc7e5ed6-6185-49b1-a876-0443fe882493')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('81e665ce-df30-455a-a66a-821e6e5ba4bd')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('81e665ce-df30-455a-a66a-821e6e5ba4bd')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('81e665ce-df30-455a-a66a-821e6e5ba4bd')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('81e665ce-df30-455a-a66a-821e6e5ba4bd')/$value"
+                },
+                "Id": "81e665ce-df30-455a-a66a-821e6e5ba4bd",
+                "Name": "S2A_MSIL2A_20200926T043711_N0214_R033_T46SEH_20200926T074244",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "1001487453",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164742614)\/",
+                "IngestionDate": "\/Date(1601164695938)\/",
+                "ModificationDate": "\/Date(1601164742614)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601095031024)\/",
+                    "End": "\/Date(1601095031024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "9DC0D1A7B7C20C40DE7D4365052570D6"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>38.842279088569065,94.24087175628918 38.77935343077485,94.21920911531276 38.63334530213413,94.16748189560008 38.48658959844086,94.11853625323954 38.33991503781168,94.06903082580371 38.19339197204107,94.01898819051216 38.04680337312939,93.9691868303548 37.900114763798825,93.91974070520631 37.85465000766389,93.90424749377034 37.85944195932729,92.99977263590924 38.848998483821255,92.99976952020701 38.842279088569065,94.24087175628918</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('81e665ce-df30-455a-a66a-821e6e5ba4bd')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('81e665ce-df30-455a-a66a-821e6e5ba4bd')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('81e665ce-df30-455a-a66a-821e6e5ba4bd')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('81e665ce-df30-455a-a66a-821e6e5ba4bd')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('377b4cb6-4da5-4067-9d3c-2480d7ae24e1')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('377b4cb6-4da5-4067-9d3c-2480d7ae24e1')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('377b4cb6-4da5-4067-9d3c-2480d7ae24e1')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('377b4cb6-4da5-4067-9d3c-2480d7ae24e1')/$value"
+                },
+                "Id": "377b4cb6-4da5-4067-9d3c-2480d7ae24e1",
+                "Name": "S2A_MSIL2A_20191116T035021_N0213_R104_T47NKG_20191116T075234",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "759879214",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1573908257374)\/",
+                "IngestionDate": "\/Date(1573908067921)\/",
+                "ModificationDate": "\/Date(1573908257374)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1573876221024)\/",
+                    "End": "\/Date(1573876221024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "DE9F9EFFD6BB91F0DF3390D35971207A"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>6.325961750499054,96.28838370506752 6.330194348408558,97.28037798682118 5.337352080682659,97.28340069967803 5.333787377582494,96.29314587973447 6.325961750499054,96.28838370506752</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('377b4cb6-4da5-4067-9d3c-2480d7ae24e1')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('377b4cb6-4da5-4067-9d3c-2480d7ae24e1')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('377b4cb6-4da5-4067-9d3c-2480d7ae24e1')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('377b4cb6-4da5-4067-9d3c-2480d7ae24e1')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('27874d2a-4c3f-4fc1-9df5-c237170314ee')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('27874d2a-4c3f-4fc1-9df5-c237170314ee')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('27874d2a-4c3f-4fc1-9df5-c237170314ee')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('27874d2a-4c3f-4fc1-9df5-c237170314ee')/$value"
+                },
+                "Id": "27874d2a-4c3f-4fc1-9df5-c237170314ee",
+                "Name": "S2A_MSIL1C_20191116T085231_N0208_R107_T36UWE_20191116T092036",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "645483994",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1573908245005)\/",
+                "IngestionDate": "\/Date(1573908215013)\/",
+                "ModificationDate": "\/Date(1608038753849)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1573894351024)\/",
+                    "End": "\/Date(1573894351024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "71D0B7D1D269661584E7BF41DC37EFFA"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>53.399960156029145,32.99969915801087 53.46031322332846,33.026367327718376 53.605679173319686,33.09089768507312 53.75110279468318,33.15580112912775 53.89639045622996,33.22168825932329 54.04181391544531,33.28779709265711 54.14576133868428,33.335453919399804 54.13637742873316,34.68033586832527 53.14985988974457,34.64156495625108 53.16117354480671,32.99970086834074 53.399960156029145,32.99969915801087</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('27874d2a-4c3f-4fc1-9df5-c237170314ee')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('27874d2a-4c3f-4fc1-9df5-c237170314ee')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('27874d2a-4c3f-4fc1-9df5-c237170314ee')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('27874d2a-4c3f-4fc1-9df5-c237170314ee')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e5bff220-a0a4-4fa1-ace2-c5213dbe110c')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e5bff220-a0a4-4fa1-ace2-c5213dbe110c')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e5bff220-a0a4-4fa1-ace2-c5213dbe110c')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e5bff220-a0a4-4fa1-ace2-c5213dbe110c')/$value"
+                },
+                "Id": "e5bff220-a0a4-4fa1-ace2-c5213dbe110c",
+                "Name": "S2A_MSIL1C_20191116T085231_N0208_R107_T36UWU_20191116T092036",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "773695032",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1573908248782)\/",
+                "IngestionDate": "\/Date(1573908220290)\/",
+                "ModificationDate": "\/Date(1608038754362)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1573894351024)\/",
+                    "End": "\/Date(1573894351024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "4C3C8A1ED8BBF76AB1B872A20CA16265"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>48.7530130044756,32.99972790410621 48.7433372246506,34.49326947557721 47.75581864580811,34.46478686693989 47.765166566721895,32.999733096344926 48.7530130044756,32.99972790410621</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e5bff220-a0a4-4fa1-ace2-c5213dbe110c')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e5bff220-a0a4-4fa1-ace2-c5213dbe110c')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e5bff220-a0a4-4fa1-ace2-c5213dbe110c')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e5bff220-a0a4-4fa1-ace2-c5213dbe110c')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('85dcce4e-7422-4f4c-8cd9-dea99fc756b5')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('85dcce4e-7422-4f4c-8cd9-dea99fc756b5')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('85dcce4e-7422-4f4c-8cd9-dea99fc756b5')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('85dcce4e-7422-4f4c-8cd9-dea99fc756b5')/$value"
+                },
+                "Id": "85dcce4e-7422-4f4c-8cd9-dea99fc756b5",
+                "Name": "S2A_MSIL2A_20200926T043711_N0214_R033_T46SCD_20200926T074244",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "1138851035",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164622973)\/",
+                "IngestionDate": "\/Date(1601164558587)\/",
+                "ModificationDate": "\/Date(1601164622973)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601095031024)\/",
+                    "End": "\/Date(1601095031024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "3C865DC9DC5EA7332F5294BCB74B1346"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>35.223124940967516,90.80245834659527 35.23901758445065,92.0086500490294 34.24900770464395,92.0204080482818 34.233687373898405,90.82850250035735 35.223124940967516,90.80245834659527</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('85dcce4e-7422-4f4c-8cd9-dea99fc756b5')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('85dcce4e-7422-4f4c-8cd9-dea99fc756b5')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('85dcce4e-7422-4f4c-8cd9-dea99fc756b5')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('85dcce4e-7422-4f4c-8cd9-dea99fc756b5')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('abcae71a-1af9-49a0-a7b2-ac46483da578')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('abcae71a-1af9-49a0-a7b2-ac46483da578')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('abcae71a-1af9-49a0-a7b2-ac46483da578')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('abcae71a-1af9-49a0-a7b2-ac46483da578')/$value"
+                },
+                "Id": "abcae71a-1af9-49a0-a7b2-ac46483da578",
+                "Name": "S2B_MSIL1C_20200926T205639_N0209_R114_T04MFV_20200926T223402",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "770367442",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164686649)\/",
+                "IngestionDate": "\/Date(1601164617028)\/",
+                "ModificationDate": "\/Date(1601164686649)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601153799024)\/",
+                    "End": "\/Date(1601153799024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "19E600F88B16E97B2585D16443DDC451"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>-4.522510473720376,-157.93785 -4.556959117105018,-157.76584 -4.559148720073044,-157.76631 -4.559170998634749,-157.76622 -4.559736592879855,-157.76634 -4.601843394585377,-157.56752 -4.601405826273192,-157.56741 -4.601473183237038,-157.5671 -4.600782104970476,-157.56694 -4.600795758710513,-157.56688 -4.600148422945856,-157.56674 -4.600173324167381,-157.56662 -4.599214622867065,-157.5664 -4.64760754140927,-157.34406 -4.650554984051457,-157.34471 -4.695131723205696,-157.14722 -4.694264334030011,-157.14702 -4.694294568936798,-157.1469 -4.69236820408394,-157.14647 -4.701318121290121,-157.10855 -5.513685455771881,-157.10622 -5.516014937246069,-158.09721 -4.522820428753555,-158.09857 -4.522510473720376,-157.93785</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('abcae71a-1af9-49a0-a7b2-ac46483da578')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('abcae71a-1af9-49a0-a7b2-ac46483da578')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('abcae71a-1af9-49a0-a7b2-ac46483da578')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('abcae71a-1af9-49a0-a7b2-ac46483da578')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('aa04696c-f05e-45b4-8e5f-f602fc5dd486')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('aa04696c-f05e-45b4-8e5f-f602fc5dd486')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('aa04696c-f05e-45b4-8e5f-f602fc5dd486')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('aa04696c-f05e-45b4-8e5f-f602fc5dd486')/$value"
+                },
+                "Id": "aa04696c-f05e-45b4-8e5f-f602fc5dd486",
+                "Name": "S2B_MSIL2A_20200926T054719_N0214_R105_T42MWU_20200926T084447",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "1070874817",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601165049736)\/",
+                "IngestionDate": "\/Date(1601164988672)\/",
+                "ModificationDate": "\/Date(1601165049736)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601099239024)\/",
+                    "End": "\/Date(1601099239024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "9E0CA246E1203F1FF669556814E9EFCD"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>-5.428225419816825,68.999819460802 -5.427413062105865,69.99092948437068 -6.420551815581405,69.99270175480942 -6.421513932186753,68.99981913784434 -5.428225419816825,68.999819460802</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('aa04696c-f05e-45b4-8e5f-f602fc5dd486')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('aa04696c-f05e-45b4-8e5f-f602fc5dd486')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('aa04696c-f05e-45b4-8e5f-f602fc5dd486')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('aa04696c-f05e-45b4-8e5f-f602fc5dd486')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bd595575-5fae-4e7c-b58f-22f4aeab33dd')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bd595575-5fae-4e7c-b58f-22f4aeab33dd')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bd595575-5fae-4e7c-b58f-22f4aeab33dd')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bd595575-5fae-4e7c-b58f-22f4aeab33dd')/$value"
+                },
+                "Id": "bd595575-5fae-4e7c-b58f-22f4aeab33dd",
+                "Name": "S2B_MSIL2A_20200926T054719_N0214_R105_T42NYG_20200926T084447",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "1018471151",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601165054732)\/",
+                "IngestionDate": "\/Date(1601165001363)\/",
+                "ModificationDate": "\/Date(1601165054732)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601099239024)\/",
+                    "End": "\/Date(1601099239024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "33AD104FF05BBD82D5FE58AC227ABEF6"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>0.817088920093231,71.7829149963909 0.815460030343853,71.78255620089323 0.816024921206463,70.79687460046411 1.808922546237677,70.79758363944599 1.807669553369263,71.78401031302052 0.817088920093231,71.7829149963909</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bd595575-5fae-4e7c-b58f-22f4aeab33dd')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bd595575-5fae-4e7c-b58f-22f4aeab33dd')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bd595575-5fae-4e7c-b58f-22f4aeab33dd')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bd595575-5fae-4e7c-b58f-22f4aeab33dd')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7928945c-261b-45aa-8710-40c525ca6dea')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7928945c-261b-45aa-8710-40c525ca6dea')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7928945c-261b-45aa-8710-40c525ca6dea')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7928945c-261b-45aa-8710-40c525ca6dea')/$value"
+                },
+                "Id": "7928945c-261b-45aa-8710-40c525ca6dea",
+                "Name": "S2A_MSIL1C_20200926T180121_N0209_R041_T12QTM_20200926T215319",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "382518810",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601165105113)\/",
+                "IngestionDate": "\/Date(1601165093981)\/",
+                "ModificationDate": "\/Date(1601165105113)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601143281024)\/",
+                    "End": "\/Date(1601143281024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "E9BD853513EAB94229212AFA8C634A19"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>23.82492208153129,-112.86755 23.874542495562853,-113.09732 23.87547701024433,-113.09709 23.87549004278877,-113.09715 23.876495847779335,-113.09689 23.876967969274688,-113.0992 23.877504936604403,-113.09906 23.87752045042515,-113.09914 23.87768450297668,-113.09909 23.92176631115168,-113.313416 23.91883952056227,-113.31415 23.96652030461927,-113.55449 23.969347280740845,-113.55379 23.96980603270768,-113.556274 23.970161064268847,-113.55618 23.970173995430493,-113.55626 23.9703291933969,-113.55621 24.010325971877247,-113.77432 24.00763539670668,-113.77498 24.039182142322844,-113.94989 24.38453509735151,-113.95772 24.40180619231123,-112.875854 23.82492208153129,-112.86755</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7928945c-261b-45aa-8710-40c525ca6dea')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7928945c-261b-45aa-8710-40c525ca6dea')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7928945c-261b-45aa-8710-40c525ca6dea')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7928945c-261b-45aa-8710-40c525ca6dea')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0fa0afc4-a262-436a-950a-3e65727ecac6')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0fa0afc4-a262-436a-950a-3e65727ecac6')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0fa0afc4-a262-436a-950a-3e65727ecac6')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0fa0afc4-a262-436a-950a-3e65727ecac6')/$value"
+                },
+                "Id": "0fa0afc4-a262-436a-950a-3e65727ecac6",
+                "Name": "S2B_MSIL2A_20190620T022559_N0212_R046_T50PNQ_20190620T062526",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "969880697",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1561026548257)\/",
+                "IngestionDate": "\/Date(1561026519555)\/",
+                "ModificationDate": "\/Date(1603510861722)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1560997559024)\/",
+                    "End": "\/Date(1560997559024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "7821EF3B50400B1AFCF57820B9D8945A"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>9.046743365203026,116.99981801611543 9.045382492111987,117.9988573673644 8.052359601205822,117.99627506480049 8.053569047879877,116.99981848668544 9.046743365203026,116.99981801611543</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0fa0afc4-a262-436a-950a-3e65727ecac6')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0fa0afc4-a262-436a-950a-3e65727ecac6')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0fa0afc4-a262-436a-950a-3e65727ecac6')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('0fa0afc4-a262-436a-950a-3e65727ecac6')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d4e5bf3c-1b39-4d25-bb60-58c6b0c99e31')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d4e5bf3c-1b39-4d25-bb60-58c6b0c99e31')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d4e5bf3c-1b39-4d25-bb60-58c6b0c99e31')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d4e5bf3c-1b39-4d25-bb60-58c6b0c99e31')/$value"
+                },
+                "Id": "d4e5bf3c-1b39-4d25-bb60-58c6b0c99e31",
+                "Name": "S2B_MSIL1C_20191116T080119_N0208_R035_T39VVC_20191116T090943",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "797172828",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1573908272288)\/",
+                "IngestionDate": "\/Date(1573908201654)\/",
+                "ModificationDate": "\/Date(1608038755180)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1573891279024)\/",
+                    "End": "\/Date(1573891279024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "6B8C9C06251E79978369D223C9AF0ACA"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>56.833046680181816,49.36043831332785 56.843709329150045,51.159994037675986 55.85722237128517,51.15591671984712 55.84694811162493,49.40219947532556 56.833046680181816,49.36043831332785</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d4e5bf3c-1b39-4d25-bb60-58c6b0c99e31')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d4e5bf3c-1b39-4d25-bb60-58c6b0c99e31')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d4e5bf3c-1b39-4d25-bb60-58c6b0c99e31')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d4e5bf3c-1b39-4d25-bb60-58c6b0c99e31')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d8fa9872-9389-409a-b47c-7f3251c12970')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d8fa9872-9389-409a-b47c-7f3251c12970')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d8fa9872-9389-409a-b47c-7f3251c12970')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d8fa9872-9389-409a-b47c-7f3251c12970')/$value"
+                },
+                "Id": "d8fa9872-9389-409a-b47c-7f3251c12970",
+                "Name": "S2A_MSIL1C_20190709T084601_N0208_R107_T38WNB_20190709T094251",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "43552865",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1562674453359)\/",
+                "IngestionDate": "\/Date(1562674430609)\/",
+                "ModificationDate": "\/Date(1597108996461)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1562661961024)\/",
+                    "End": "\/Date(1562661961024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "9798B9D4A7A07B280B985307EDA2F38D"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>69.19520178571122,47.77120551734646 69.25179790351723,47.43485083306399 69.25339136977655,47.43698891031666 69.25440653590458,47.430696548812975 69.25463296970089,47.4309986922341 69.25464614118626,47.430917181586075 69.25526894217927,47.43175444432213 69.34011488348065,46.906850860614185 69.33787466291199,46.903888000760645 69.37798610847577,46.63792973637421 69.39749892540792,46.50930002478797 69.38716009345416,47.79493686530786 69.19520178571122,47.77120551734646</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d8fa9872-9389-409a-b47c-7f3251c12970')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d8fa9872-9389-409a-b47c-7f3251c12970')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d8fa9872-9389-409a-b47c-7f3251c12970')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d8fa9872-9389-409a-b47c-7f3251c12970')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('59ef6ce2-3621-4cc0-aa1f-a3fe811e2da5')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('59ef6ce2-3621-4cc0-aa1f-a3fe811e2da5')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('59ef6ce2-3621-4cc0-aa1f-a3fe811e2da5')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('59ef6ce2-3621-4cc0-aa1f-a3fe811e2da5')/$value"
+                },
+                "Id": "59ef6ce2-3621-4cc0-aa1f-a3fe811e2da5",
+                "Name": "S2A_MSIL2A_20200926T043711_N0214_R033_T46SDF_20200926T074244",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "1177834081",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164623405)\/",
+                "IngestionDate": "\/Date(1601164557849)\/",
+                "ModificationDate": "\/Date(1601164623405)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601095031024)\/",
+                    "End": "\/Date(1601095031024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "A9E7B3FD00A49A4AA6638C096D529BCB"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>37.04124978452211,91.87506473735343 37.04653228101576,93.1097593207787 36.05667498554276,93.10836845745311 36.05157871290146,91.88931628784403 37.04124978452211,91.87506473735343</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('59ef6ce2-3621-4cc0-aa1f-a3fe811e2da5')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('59ef6ce2-3621-4cc0-aa1f-a3fe811e2da5')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('59ef6ce2-3621-4cc0-aa1f-a3fe811e2da5')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('59ef6ce2-3621-4cc0-aa1f-a3fe811e2da5')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1cf52e55-b334-4c19-9906-a3f40effa3eb')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1cf52e55-b334-4c19-9906-a3f40effa3eb')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1cf52e55-b334-4c19-9906-a3f40effa3eb')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1cf52e55-b334-4c19-9906-a3f40effa3eb')/$value"
+                },
+                "Id": "1cf52e55-b334-4c19-9906-a3f40effa3eb",
+                "Name": "S1B_IW_SLC__1SDV_20190202T041151_20190202T041220_014762_01B87F_47E8",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "5065777009",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1549099373826)\/",
+                "IngestionDate": "\/Date(1549098898811)\/",
+                "ModificationDate": "\/Date(1583155256753)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549080711104)\/",
+                    "End": "\/Date(1549080740939)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "738D8B11C0888A810E2FA87D33227F3A"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>46.371754,30.807224 46.768517,27.510225 48.555855,27.918907 48.157864,31.332918 46.371754,30.807224</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1cf52e55-b334-4c19-9906-a3f40effa3eb')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1cf52e55-b334-4c19-9906-a3f40effa3eb')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1cf52e55-b334-4c19-9906-a3f40effa3eb')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1cf52e55-b334-4c19-9906-a3f40effa3eb')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('dc664a1e-da16-4c29-8f54-06d22d47b3e3')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('dc664a1e-da16-4c29-8f54-06d22d47b3e3')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('dc664a1e-da16-4c29-8f54-06d22d47b3e3')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('dc664a1e-da16-4c29-8f54-06d22d47b3e3')/$value"
+                },
+                "Id": "dc664a1e-da16-4c29-8f54-06d22d47b3e3",
+                "Name": "S2A_MSIL2A_20200926T043711_N0214_R033_T46TDQ_20200926T074244",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "479834418",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164682740)\/",
+                "IngestionDate": "\/Date(1601164639535)\/",
+                "ModificationDate": "\/Date(1601164682740)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601095031024)\/",
+                    "End": "\/Date(1601095031024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "C4DB59428CA2CA38480BBA1E69246C9F"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>44.1618119358017,92.4159802605182 44.27434974619836,92.45280809571348 44.42133007270336,92.50132001094823 44.56821749333797,92.54995529988979 44.715162387591896,92.59821354681507 44.86189755019758,92.64715600862344 45.00807063749431,92.69811055841983 45.15188066591721,92.7484459516272 45.153769755990965,93.12416639718779 44.165301274896635,93.12207449093611 44.1618119358017,92.4159802605182</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('dc664a1e-da16-4c29-8f54-06d22d47b3e3')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('dc664a1e-da16-4c29-8f54-06d22d47b3e3')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('dc664a1e-da16-4c29-8f54-06d22d47b3e3')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('dc664a1e-da16-4c29-8f54-06d22d47b3e3')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('58d9c339-7d69-4a75-89b5-138492bcaf90')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('58d9c339-7d69-4a75-89b5-138492bcaf90')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('58d9c339-7d69-4a75-89b5-138492bcaf90')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('58d9c339-7d69-4a75-89b5-138492bcaf90')/$value"
+                },
+                "Id": "58d9c339-7d69-4a75-89b5-138492bcaf90",
+                "Name": "S1B_IW_SLC__1SDV_20190202T040738_20190202T040805_014762_01B87E_96E3",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "4399525054",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1549099817927)\/",
+                "IngestionDate": "\/Date(1549099506844)\/",
+                "ModificationDate": "\/Date(1583155261526)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549080458273)\/",
+                    "End": "\/Date(1549080485240)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "5304DF9DB54D56CCA66ECFFBA21A9C42"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>61.622787,36.291340 62.053680,31.545387 63.659565,32.098297 63.217278,37.106644 61.622787,36.291340</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('58d9c339-7d69-4a75-89b5-138492bcaf90')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('58d9c339-7d69-4a75-89b5-138492bcaf90')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('58d9c339-7d69-4a75-89b5-138492bcaf90')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('58d9c339-7d69-4a75-89b5-138492bcaf90')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7ef88128-902b-4c0e-bdfc-4d8d8fe850ad')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7ef88128-902b-4c0e-bdfc-4d8d8fe850ad')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7ef88128-902b-4c0e-bdfc-4d8d8fe850ad')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7ef88128-902b-4c0e-bdfc-4d8d8fe850ad')/$value"
+                },
+                "Id": "7ef88128-902b-4c0e-bdfc-4d8d8fe850ad",
+                "Name": "S2B_MSIL1C_20200926T205639_N0209_R114_T04MGS_20200926T223402",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "481369200",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164688657)\/",
+                "IngestionDate": "\/Date(1601164621469)\/",
+                "ModificationDate": "\/Date(1601164688657)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601153799024)\/",
+                    "End": "\/Date(1601153799024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "E0F8DC155D870DBFAB3704FA678E27AC"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>-7.230484068713229,-156.55731 -7.343536224472482,-156.5821 -7.471220383113033,-156.61009 -7.492838807684663,-156.61484 -7.641349675332718,-156.64743 -7.789982483674557,-156.67996 -7.821604235527939,-156.68689 -7.93787852571019,-156.71239 -8.086585272383298,-156.74501 -8.224040304877215,-156.77516 -8.226398126465138,-157.18474 -7.233684264140844,-157.18898 -7.230484068713229,-156.55731</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7ef88128-902b-4c0e-bdfc-4d8d8fe850ad')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7ef88128-902b-4c0e-bdfc-4d8d8fe850ad')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7ef88128-902b-4c0e-bdfc-4d8d8fe850ad')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7ef88128-902b-4c0e-bdfc-4d8d8fe850ad')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7e194dcc-5ac7-4997-ba90-44a7d9e6aa6e')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7e194dcc-5ac7-4997-ba90-44a7d9e6aa6e')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7e194dcc-5ac7-4997-ba90-44a7d9e6aa6e')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7e194dcc-5ac7-4997-ba90-44a7d9e6aa6e')/$value"
+                },
+                "Id": "7e194dcc-5ac7-4997-ba90-44a7d9e6aa6e",
+                "Name": "S1A_WV_OCN__2SSV_20190202T040745_20190202T042931_025745_02DCC5_14F7",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "71482360",
+                "ChildrenNumber": "0",
+                "Value": null,
+                "CreationDate": "\/Date(1549100525719)\/",
+                "IngestionDate": "\/Date(1549099571573)\/",
+                "ModificationDate": "\/Date(1583155268883)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549080464929)\/",
+                    "End": "\/Date(1549081772172)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "046C45E782287ED57E735075AC94EEE2"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>-63.332611,-129.636597 -63.251865,-129.254395 -63.416660,-129.083115 -63.497856,-129.467270 -63.332611,-129.636597</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7e194dcc-5ac7-4997-ba90-44a7d9e6aa6e')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7e194dcc-5ac7-4997-ba90-44a7d9e6aa6e')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7e194dcc-5ac7-4997-ba90-44a7d9e6aa6e')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('7e194dcc-5ac7-4997-ba90-44a7d9e6aa6e')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a6fe692e-5c44-4e14-9ba3-37be1dbc3bc0')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a6fe692e-5c44-4e14-9ba3-37be1dbc3bc0')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a6fe692e-5c44-4e14-9ba3-37be1dbc3bc0')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a6fe692e-5c44-4e14-9ba3-37be1dbc3bc0')/$value"
+                },
+                "Id": "a6fe692e-5c44-4e14-9ba3-37be1dbc3bc0",
+                "Name": "S1A_IW_SLC__1SDV_20190202T043136_20190202T043203_025746_02DCC6_E751",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "4164584865",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1549100538028)\/",
+                "IngestionDate": "\/Date(1549099940080)\/",
+                "ModificationDate": "\/Date(1583155273822)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549081896557)\/",
+                    "End": "\/Date(1549081923501)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "496D8FD176C68F3E34DB86712E7F3F54"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>23.605906,-157.709930 24.022287,-155.277817 22.398310,-154.963028 21.978727,-157.364609 23.605906,-157.709930</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a6fe692e-5c44-4e14-9ba3-37be1dbc3bc0')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a6fe692e-5c44-4e14-9ba3-37be1dbc3bc0')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a6fe692e-5c44-4e14-9ba3-37be1dbc3bc0')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a6fe692e-5c44-4e14-9ba3-37be1dbc3bc0')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bb06186c-d83a-476d-b8a9-819508b3da47')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bb06186c-d83a-476d-b8a9-819508b3da47')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bb06186c-d83a-476d-b8a9-819508b3da47')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bb06186c-d83a-476d-b8a9-819508b3da47')/$value"
+                },
+                "Id": "bb06186c-d83a-476d-b8a9-819508b3da47",
+                "Name": "S1A_IW_RAW__0SSH_20190202T081434_20190202T081505_025748_02DCE1_1717",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "685306674",
+                "ChildrenNumber": "0",
+                "Value": null,
+                "CreationDate": "\/Date(1549101083057)\/",
+                "IngestionDate": "\/Date(1549100068437)\/",
+                "ModificationDate": "\/Date(1583155278638)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549095274650)\/",
+                    "End": "\/Date(1549095305336)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "24F2E2F145C0D4CE0232C5D458697EC5"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>65.6832,-28.6567 63.8470,-29.3470 63.4752,-24.3975 65.2913,-23.3696 65.6832,-28.6567 65.6832,-28.6567</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bb06186c-d83a-476d-b8a9-819508b3da47')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bb06186c-d83a-476d-b8a9-819508b3da47')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bb06186c-d83a-476d-b8a9-819508b3da47')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('bb06186c-d83a-476d-b8a9-819508b3da47')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('629eb0c0-8988-4a33-bdf0-4627096c8dda')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('629eb0c0-8988-4a33-bdf0-4627096c8dda')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('629eb0c0-8988-4a33-bdf0-4627096c8dda')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('629eb0c0-8988-4a33-bdf0-4627096c8dda')/$value"
+                },
+                "Id": "629eb0c0-8988-4a33-bdf0-4627096c8dda",
+                "Name": "S1B_EW_RAW__0SDH_20190202T072347_20190202T072456_014764_01B88D_EBD1",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "1122749799",
+                "ChildrenNumber": "0",
+                "Value": null,
+                "CreationDate": "\/Date(1549099811825)\/",
+                "IngestionDate": "\/Date(1549099328189)\/",
+                "ModificationDate": "\/Date(1583155259289)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549092227909)\/",
+                    "End": "\/Date(1549092296109)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "DD2DAE486AC750798A9DA841A105BA70"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>68.2640,-15.6699 64.1845,-17.2656 63.4973,-9.0866 67.4788,-6.1380 68.2640,-15.6699 68.2640,-15.6699</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('629eb0c0-8988-4a33-bdf0-4627096c8dda')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('629eb0c0-8988-4a33-bdf0-4627096c8dda')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('629eb0c0-8988-4a33-bdf0-4627096c8dda')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('629eb0c0-8988-4a33-bdf0-4627096c8dda')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('49eda747-f21e-4128-9c30-9814b80f7f1f')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('49eda747-f21e-4128-9c30-9814b80f7f1f')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('49eda747-f21e-4128-9c30-9814b80f7f1f')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('49eda747-f21e-4128-9c30-9814b80f7f1f')/$value"
+                },
+                "Id": "49eda747-f21e-4128-9c30-9814b80f7f1f",
+                "Name": "S1A_IW_OCN__2SDV_20190202T043112_20190202T043137_025746_02DCC6_2A74",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "6922367",
+                "ChildrenNumber": "0",
+                "Value": null,
+                "CreationDate": "\/Date(1549100520594)\/",
+                "IngestionDate": "\/Date(1549099566441)\/",
+                "ModificationDate": "\/Date(1583155265731)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549081872392)\/",
+                    "End": "\/Date(1549081897391)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "B8631B6B282E5E4614852743695508C9"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>22.029066,-157.374435 22.448689,-154.971024 20.942608,-154.673447 20.519867,-157.051422 22.029066,-157.374435</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('49eda747-f21e-4128-9c30-9814b80f7f1f')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('49eda747-f21e-4128-9c30-9814b80f7f1f')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('49eda747-f21e-4128-9c30-9814b80f7f1f')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('49eda747-f21e-4128-9c30-9814b80f7f1f')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e8a5ed1f-086d-47e1-b325-1afba49c1952')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e8a5ed1f-086d-47e1-b325-1afba49c1952')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e8a5ed1f-086d-47e1-b325-1afba49c1952')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e8a5ed1f-086d-47e1-b325-1afba49c1952')/$value"
+                },
+                "Id": "e8a5ed1f-086d-47e1-b325-1afba49c1952",
+                "Name": "S2A_MSIL1C_20200926T212531_N0209_R043_T06WWB_20200926T232725",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "233232049",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601168041843)\/",
+                "IngestionDate": "\/Date(1601167983620)\/",
+                "ModificationDate": "\/Date(1601168041843)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601155531024)\/",
+                    "End": "\/Date(1601155531024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "404B34AB102914A53501183E587FA4B0"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>68.41456142058718,-145.70432 68.5186964291663,-145.59135 68.65732524449157,-145.43533 68.79693363046401,-145.2836 68.93592817677795,-145.12804 69.07426110027153,-144.96835 69.21354270163616,-144.8122 69.35309143843403,-144.65646 69.39043878988511,-144.61276 69.38716009345416,-144.20506 68.4035546435041,-144.32666 68.41456142058718,-145.70432</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e8a5ed1f-086d-47e1-b325-1afba49c1952')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e8a5ed1f-086d-47e1-b325-1afba49c1952')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e8a5ed1f-086d-47e1-b325-1afba49c1952')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('e8a5ed1f-086d-47e1-b325-1afba49c1952')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d99a19cc-d704-4b27-94c1-0c89c1117f20')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d99a19cc-d704-4b27-94c1-0c89c1117f20')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d99a19cc-d704-4b27-94c1-0c89c1117f20')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d99a19cc-d704-4b27-94c1-0c89c1117f20')/$value"
+                },
+                "Id": "d99a19cc-d704-4b27-94c1-0c89c1117f20",
+                "Name": "S2B_MSIL1C_20200926T221259_N0209_R115_T06XWJ_20200926T223944",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "24763326",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164626113)\/",
+                "IngestionDate": "\/Date(1601164580625)\/",
+                "ModificationDate": "\/Date(1601164626113)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601158379024)\/",
+                    "End": "\/Date(1601158379024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "6A97B6B3297D0499537741907EFB1B80"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>75.50043335882978,-143.06706 75.59051110780733,-143.61511 75.59179871371123,-143.61156 75.59231345968003,-143.61482 75.59234998681505,-143.61472 75.5923995679704,-143.61504 75.59265851288691,-143.61432 75.66003056170918,-144.03964 75.65161939241639,-143.02872 75.50043335882978,-143.06706</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d99a19cc-d704-4b27-94c1-0c89c1117f20')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d99a19cc-d704-4b27-94c1-0c89c1117f20')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d99a19cc-d704-4b27-94c1-0c89c1117f20')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d99a19cc-d704-4b27-94c1-0c89c1117f20')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('41001caf-6612-4f7a-a07f-bd61e8469bf9')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('41001caf-6612-4f7a-a07f-bd61e8469bf9')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('41001caf-6612-4f7a-a07f-bd61e8469bf9')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('41001caf-6612-4f7a-a07f-bd61e8469bf9')/$value"
+                },
+                "Id": "41001caf-6612-4f7a-a07f-bd61e8469bf9",
+                "Name": "S1A_IW_RAW__0SSH_20190202T081409_20190202T081442_025748_02DCE1_902C",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "766374181",
+                "ChildrenNumber": "0",
+                "Value": null,
+                "CreationDate": "\/Date(1549101083554)\/",
+                "IngestionDate": "\/Date(1549100069080)\/",
+                "ModificationDate": "\/Date(1583155278792)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549095249649)\/",
+                    "End": "\/Date(1549095282049)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "5AFFDE15BAB8A0A09A490A31EA165546"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>67.1776,-28.0426 65.2406,-28.8291 64.8539,-23.6278 66.7666,-22.4415 67.1776,-28.0426 67.1776,-28.0426</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('41001caf-6612-4f7a-a07f-bd61e8469bf9')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('41001caf-6612-4f7a-a07f-bd61e8469bf9')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('41001caf-6612-4f7a-a07f-bd61e8469bf9')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('41001caf-6612-4f7a-a07f-bd61e8469bf9')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('f2a2d1e0-982f-42d5-9459-da4a5507cfa1')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('f2a2d1e0-982f-42d5-9459-da4a5507cfa1')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('f2a2d1e0-982f-42d5-9459-da4a5507cfa1')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('f2a2d1e0-982f-42d5-9459-da4a5507cfa1')/$value"
+                },
+                "Id": "f2a2d1e0-982f-42d5-9459-da4a5507cfa1",
+                "Name": "S3A_SY_2_VG1____20190703T111721_20190704T111721_20190709T113918_AFRICA____________LN2_O_NT_002",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "129203797",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1562674704187)\/",
+                "IngestionDate": "\/Date(1562674641914)\/",
+                "ModificationDate": "\/Date(1562674641914)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1562152641000)\/",
+                    "End": "\/Date(1562239041000)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "0D48DE3324E6D7789EF072507BB5F5E1"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>-34.9955,-25.9955 -34.9955,-21.4688 -34.9955,-16.942 -34.9955,-12.4152 -34.9955,-7.88839 -34.9955,-3.36161 -34.9955,1.16518 -34.9955,5.69196 -34.9955,10.2187 -34.9955,14.7455 -34.9955,19.2723 -34.9955,23.7991 -34.9955,28.3259 -34.9955,32.8527 -34.9955,37.3795 -34.9955,41.9062 -34.9955,46.433 -34.9955,50.9598 -34.9955,55.4866 -34.9955,59.9955 -34.5759,59.9955 -34.0045,59.9955 -33.433,59.9955 -32.8616,59.9955 -32.2902,59.9955 -31.7187,59.9955 -31.1473,59.9955 -30.5759,59.9955 -30.0045,59.9955 -29.433,59.9955 -28.8616,59.9955 -28.2902,59.9955 -27.7187,59.9955 -27.1473,59.9955 -26.5759,59.9955 -26.0045,59.9955 -25.433,59.9955 -24.8616,59.9955 -24.2902,59.9955 -23.7187,59.9955 -23.1473,59.9955 -22.5759,59.9955 -22.0045,59.9955 -21.433,59.9955 -20.8616,59.9955 -20.2902,59.9955 -19.7187,59.9955 -19.1473,59.9955 -18.5759,59.9955 -18.0045,59.9955 -17.433,59.9955 -16.8616,59.9955 -16.2902,59.9955 -15.7187,59.9955 -15.1473,59.9955 -14.5759,59.9955 -14.0045,59.9955 -13.433,59.9955 -12.8616,59.9955 -12.2902,59.9955 -11.7187,59.9955 -11.1473,59.9955 -10.5759,59.9955 -10.0045,59.9955 -9.43304,59.9955 -8.86161,59.9955 -8.29018,59.9955 -7.71875,59.9955 -7.14732,59.9955 -6.57589,59.9955 -6.00446,59.9955 -5.43304,59.9955 -4.86161,59.9955 -4.29018,59.9955 -3.71875,59.9955 -3.14732,59.9955 -2.57589,59.9955 -2.00446,59.9955 -1.43304,59.9955 -0.861607,59.9955 -0.290179,59.9955 0.28125,59.9955 0.852679,59.9955 1.42411,59.9955 1.99554,59.9955 2.56696,59.9955 3.13839,59.9955 3.70982,59.9955 4.28125,59.9955 4.85268,59.9955 5.42411,59.9955 5.99554,59.9955 6.56696,59.9955 7.13839,59.9955 7.70982,59.9955 8.28125,59.9955 8.85268,59.9955 9.42411,59.9955 9.99554,59.9955 10.567,59.9955 11.1384,59.9955 11.7098,59.9955 12.2813,59.9955 12.8527,59.9955 13.4241,59.9955 13.9955,59.9955 14.567,59.9955 15.1384,59.9955 15.7098,59.9955 16.2813,59.9955 16.8527,59.9955 17.4241,59.9955 17.9955,59.9955 18.567,59.9955 19.1384,59.9955 19.7098,59.9955 20.2813,59.9955 20.8527,59.9955 21.4241,59.9955 21.9955,59.9955 22.567,59.9955 23.1384,59.9955 23.7098,59.9955 24.2813,59.9955 24.8527,59.9955 25.4241,59.9955 25.9955,59.9955 26.567,59.9955 27.1384,59.9955 27.7098,59.9955 28.2813,59.9955 28.8527,59.9955 29.4241,59.9955 29.9955,59.9955 30.567,59.9955 31.1384,59.9955 31.7098,59.9955 32.2813,59.9955 32.8527,59.9955 33.4241,59.9955 33.9955,59.9955 34.567,59.9955 35.1384,59.9955 35.7098,59.9955 36.2813,59.9955 36.8527,59.9955 37.4241,59.9955 37.9955,59.9955 37.9955,55.4866 37.9955,50.9598 37.9955,46.433 37.9955,41.9062 37.9955,37.3795 37.9955,32.8527 37.9955,28.3259 37.9955,23.7991 37.9955,19.2723 37.9955,14.7455 37.9955,10.2187 37.9955,5.69196 37.9955,1.16518 37.9955,-3.36161 37.9955,-7.88839 37.9955,-12.4152 37.9955,-16.942 37.9955,-21.4688 37.9955,-25.9955 37.4241,-25.9955 36.8527,-25.9955 36.2813,-25.9955 35.7098,-25.9955 35.1384,-25.9955 34.567,-25.9955 33.9955,-25.9955 33.4241,-25.9955 32.8527,-25.9955 32.2813,-25.9955 31.7098,-25.9955 31.1384,-25.9955 30.567,-25.9955 29.9955,-25.9955 29.4241,-25.9955 28.8527,-25.9955 28.2813,-25.9955 27.7098,-25.9955 27.1384,-25.9955 26.567,-25.9955 25.9955,-25.9955 25.4241,-25.9955 24.8527,-25.9955 24.2813,-25.9955 23.7098,-25.9955 23.1384,-25.9955 22.567,-25.9955 21.9955,-25.9955 21.4241,-25.9955 20.8527,-25.9955 20.2813,-25.9955 19.7098,-25.9955 19.1384,-25.9955 18.567,-25.9955 17.9955,-25.9955 17.4241,-25.9955 16.8527,-25.9955 16.2813,-25.9955 15.7098,-25.9955 15.1384,-25.9955 14.567,-25.9955 13.9955,-25.9955 13.4241,-25.9955 12.8527,-25.9955 12.2813,-25.9955 11.7098,-25.9955 11.1384,-25.9955 10.567,-25.9955 9.99554,-25.9955 9.42411,-25.9955 8.85268,-25.9955 8.28125,-25.9955 7.70982,-25.9955 7.13839,-25.9955 6.56696,-25.9955 5.99554,-25.9955 5.42411,-25.9955 4.85268,-25.9955 4.28125,-25.9955 3.70982,-25.9955 3.13839,-25.9955 2.56696,-25.9955 1.99554,-25.9955 1.42411,-25.9955 0.852679,-25.9955 0.28125,-25.9955 -0.290179,-25.9955 -0.861607,-25.9955 -1.43304,-25.9955 -2.00446,-25.9955 -2.57589,-25.9955 -3.14732,-25.9955 -3.71875,-25.9955 -4.29018,-25.9955 -4.86161,-25.9955 -5.43304,-25.9955 -6.00446,-25.9955 -6.57589,-25.9955 -7.14732,-25.9955 -7.71875,-25.9955 -8.29018,-25.9955 -8.86161,-25.9955 -9.43304,-25.9955 -10.0045,-25.9955 -10.5759,-25.9955 -11.1473,-25.9955 -11.7187,-25.9955 -12.2902,-25.9955 -12.8616,-25.9955 -13.433,-25.9955 -14.0045,-25.9955 -14.5759,-25.9955 -15.1473,-25.9955 -15.7187,-25.9955 -16.2902,-25.9955 -16.8616,-25.9955 -17.433,-25.9955 -18.0045,-25.9955 -18.5759,-25.9955 -19.1473,-25.9955 -19.7187,-25.9955 -20.2902,-25.9955 -20.8616,-25.9955 -21.433,-25.9955 -22.0045,-25.9955 -22.5759,-25.9955 -23.1473,-25.9955 -23.7187,-25.9955 -24.2902,-25.9955 -24.8616,-25.9955 -25.433,-25.9955 -26.0045,-25.9955 -26.5759,-25.9955 -27.1473,-25.9955 -27.7187,-25.9955 -28.2902,-25.9955 -28.8616,-25.9955 -29.433,-25.9955 -30.0045,-25.9955 -30.5759,-25.9955 -31.1473,-25.9955 -31.7187,-25.9955 -32.2902,-25.9955 -32.8616,-25.9955 -33.433,-25.9955 -34.0045,-25.9955 -34.5759,-25.9955 -34.9955,-25.9955</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('f2a2d1e0-982f-42d5-9459-da4a5507cfa1')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('f2a2d1e0-982f-42d5-9459-da4a5507cfa1')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('f2a2d1e0-982f-42d5-9459-da4a5507cfa1')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('f2a2d1e0-982f-42d5-9459-da4a5507cfa1')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('14fa36e7-2835-41aa-822b-fe41e60f254c')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('14fa36e7-2835-41aa-822b-fe41e60f254c')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('14fa36e7-2835-41aa-822b-fe41e60f254c')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('14fa36e7-2835-41aa-822b-fe41e60f254c')/$value"
+                },
+                "Id": "14fa36e7-2835-41aa-822b-fe41e60f254c",
+                "Name": "S1A_IW_RAW__0SSH_20190202T081204_20190202T081237_025748_02DCE1_D3D5",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "762617707",
+                "ChildrenNumber": "0",
+                "Value": null,
+                "CreationDate": "\/Date(1549100532649)\/",
+                "IngestionDate": "\/Date(1549099834422)\/",
+                "ModificationDate": "\/Date(1583155271417)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549095124649)\/",
+                    "End": "\/Date(1549095157048)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "E414D27D234FC6A8DAF0FF45BE37D214"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>74.6171,-23.7815 72.6958,-25.1535 72.1823,-17.9531 74.0496,-15.7819 74.6171,-23.7815 74.6171,-23.7815</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('14fa36e7-2835-41aa-822b-fe41e60f254c')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('14fa36e7-2835-41aa-822b-fe41e60f254c')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('14fa36e7-2835-41aa-822b-fe41e60f254c')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('14fa36e7-2835-41aa-822b-fe41e60f254c')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d0974f46-31fb-47ba-92f7-af2c517f2737')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d0974f46-31fb-47ba-92f7-af2c517f2737')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d0974f46-31fb-47ba-92f7-af2c517f2737')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d0974f46-31fb-47ba-92f7-af2c517f2737')/$value"
+                },
+                "Id": "d0974f46-31fb-47ba-92f7-af2c517f2737",
+                "Name": "S1B_EW_RAW__0SDH_20190202T062243_20190202T062345_014763_01B888_4036",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "959487433",
+                "ChildrenNumber": "0",
+                "Value": null,
+                "CreationDate": "\/Date(1549100617876)\/",
+                "IngestionDate": "\/Date(1549100330870)\/",
+                "ModificationDate": "\/Date(1583155276412)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549088563006)\/",
+                    "End": "\/Date(1549088625361)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "CCB155F90E8C1282B134234737868247"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>-65.1321,-38.9212 -68.1389,-44.8100 -70.3134,-36.1599 -67.0186,-30.9157 -65.1321,-38.9212 -65.1321,-38.9212</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d0974f46-31fb-47ba-92f7-af2c517f2737')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d0974f46-31fb-47ba-92f7-af2c517f2737')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d0974f46-31fb-47ba-92f7-af2c517f2737')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('d0974f46-31fb-47ba-92f7-af2c517f2737')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('663b8f98-a6a4-40cd-98e2-02fe9030e485')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('663b8f98-a6a4-40cd-98e2-02fe9030e485')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('663b8f98-a6a4-40cd-98e2-02fe9030e485')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('663b8f98-a6a4-40cd-98e2-02fe9030e485')/$value"
+                },
+                "Id": "663b8f98-a6a4-40cd-98e2-02fe9030e485",
+                "Name": "S1A_S6_GRDH_1SSV_20190202T064709_20190202T064737_025747_02DCD8_FF84",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "104297865",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1549101088595)\/",
+                "IngestionDate": "\/Date(1549100537147)\/",
+                "ModificationDate": "\/Date(1583155280527)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549090029743)\/",
+                    "End": "\/Date(1549090057891)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "8F7810A6AEEF70E6B87687C89E1EECC6"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>23.307198,-13.608490 23.435883,-14.383809 25.131521,-14.055736 25.004322,-13.269808 23.307198,-13.608490</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('663b8f98-a6a4-40cd-98e2-02fe9030e485')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('663b8f98-a6a4-40cd-98e2-02fe9030e485')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('663b8f98-a6a4-40cd-98e2-02fe9030e485')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('663b8f98-a6a4-40cd-98e2-02fe9030e485')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8a876f2a-1677-4901-951d-c4a6c2c6e3bc')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8a876f2a-1677-4901-951d-c4a6c2c6e3bc')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8a876f2a-1677-4901-951d-c4a6c2c6e3bc')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8a876f2a-1677-4901-951d-c4a6c2c6e3bc')/$value"
+                },
+                "Id": "8a876f2a-1677-4901-951d-c4a6c2c6e3bc",
+                "Name": "S1B_IW_RAW__0SSH_20190202T062704_20190202T062736_014763_01B889_2E90",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "725467113",
+                "ChildrenNumber": "0",
+                "Value": null,
+                "CreationDate": "\/Date(1549099813751)\/",
+                "IngestionDate": "\/Date(1549099372526)\/",
+                "ModificationDate": "\/Date(1583155260030)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549088824086)\/",
+                    "End": "\/Date(1549088856486)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "884721A4DFC57AB27BFCBB875138ABFD"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>-75.4046,-76.7779 -75.9424,-84.4603 -78.1653,-82.0855 -77.5308,-73.1907 -75.4046,-76.7779 -75.4046,-76.7779</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8a876f2a-1677-4901-951d-c4a6c2c6e3bc')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8a876f2a-1677-4901-951d-c4a6c2c6e3bc')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8a876f2a-1677-4901-951d-c4a6c2c6e3bc')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('8a876f2a-1677-4901-951d-c4a6c2c6e3bc')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('23d27582-2eaa-4478-b372-6b48a020d2c2')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('23d27582-2eaa-4478-b372-6b48a020d2c2')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('23d27582-2eaa-4478-b372-6b48a020d2c2')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('23d27582-2eaa-4478-b372-6b48a020d2c2')/$value"
+                },
+                "Id": "23d27582-2eaa-4478-b372-6b48a020d2c2",
+                "Name": "S2B_MSIL1C_20200926T205639_N0209_R114_T04MFA_20200926T223402",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "36882895",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164625343)\/",
+                "IngestionDate": "\/Date(1601164579881)\/",
+                "ModificationDate": "\/Date(1601164625343)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601153799024)\/",
+                    "End": "\/Date(1601153799024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "3F544BBC8747A2F979C682B07EC734F5"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>-4.493627765703008,-158.0986 -4.514574055533941,-157.99268 -4.514469566727548,-157.99266 -4.514485843603144,-157.99257 -4.514307120342254,-157.99254 -4.51432343623002,-157.99245 -4.514251747652385,-157.99243 -4.514302280954439,-157.99217 -4.513848024465306,-157.99208 -4.513862503429545,-157.992 -4.513684909440072,-157.99196 -4.513725667435142,-157.99176 -4.513049773399386,-157.99161 -4.513066413352579,-157.99152 -4.512972263684808,-157.9915 -4.513026552796362,-157.99123 -4.511871958394649,-157.99097 -4.556959117105018,-157.76584 -4.559148720073044,-157.76631 -4.559170998634749,-157.76622 -4.559736592879855,-157.76634 -4.601843394585377,-157.56752 -4.601405826273192,-157.56741 -4.601473183237038,-157.5671 -4.600782104970476,-157.56694 -4.600795758710513,-157.56688 -4.600148422945856,-157.56674 -4.600173324167381,-157.56662 -4.599214622867065,-157.5664 -4.610141730075252,-157.5162 -4.611286499197733,-158.09846 -4.493627765703008,-158.0986</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('23d27582-2eaa-4478-b372-6b48a020d2c2')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('23d27582-2eaa-4478-b372-6b48a020d2c2')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('23d27582-2eaa-4478-b372-6b48a020d2c2')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('23d27582-2eaa-4478-b372-6b48a020d2c2')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('724adf20-c74e-4811-aa02-e07add1a5800')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('724adf20-c74e-4811-aa02-e07add1a5800')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('724adf20-c74e-4811-aa02-e07add1a5800')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('724adf20-c74e-4811-aa02-e07add1a5800')/$value"
+                },
+                "Id": "724adf20-c74e-4811-aa02-e07add1a5800",
+                "Name": "S2B_MSIL2A_20200926T034539_N0214_R104_T54XVH_20200926T063751",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "397022254",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164632885)\/",
+                "IngestionDate": "\/Date(1601164608251)\/",
+                "ModificationDate": "\/Date(1601164632885)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601091939024)\/",
+                    "End": "\/Date(1601091939024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "C4287D2C1835C19AF822C5AC77AD8ED6"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>74.78433390271645,140.71739559119837 74.74481210220645,140.58405499237253 74.63124946204782,140.20855829488954 74.51707436093581,139.83825399196093 74.40236629035533,139.47263492235524 74.28703166387582,139.11262627652212 74.17111402728203,138.758231940081 74.05462759231123,138.40943830582916 73.93763446378614,138.0650489069133 73.8385708814331,137.7779296488468 74.76300898682804,137.5881136245632 74.78433390271645,140.71739559119837</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('724adf20-c74e-4811-aa02-e07add1a5800')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('724adf20-c74e-4811-aa02-e07add1a5800')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('724adf20-c74e-4811-aa02-e07add1a5800')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('724adf20-c74e-4811-aa02-e07add1a5800')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('04b1be01-1c09-4f4d-9e49-b945d930bf20')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('04b1be01-1c09-4f4d-9e49-b945d930bf20')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('04b1be01-1c09-4f4d-9e49-b945d930bf20')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('04b1be01-1c09-4f4d-9e49-b945d930bf20')/$value"
+                },
+                "Id": "04b1be01-1c09-4f4d-9e49-b945d930bf20",
+                "Name": "S2B_MSIL2A_20200926T034539_N0214_R104_T55XEF_20200926T063751",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "431726356",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164634083)\/",
+                "IngestionDate": "\/Date(1601164616629)\/",
+                "ModificationDate": "\/Date(1601164634083)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601091939024)\/",
+                    "End": "\/Date(1601091939024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "8A0ECA0A88C03725665035F2AD30B196"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>77.46893738183782,147.9999148614507 77.33464110651238,148.51344662976337 77.33479889235342,148.51425325596549 77.3347800405524,148.5143253979546 77.33485425710295,148.5147048900055 77.33480371470024,148.51489842977716 77.33490290028257,148.5154055250758 77.33486776060549,148.51554018059846 77.33501488680491,148.51629213496733 77.33496235169494,148.516493588147 77.33519158090823,148.51766531034835 77.33514362265686,148.5178493397702 77.33529389184558,148.51861753644846 77.33528735700514,148.51864262963568 77.33539545772483,148.51919506017902 77.33532438503228,148.51946833744537 77.33543713441331,148.52004458701265 77.33535866260945,148.52034629184655 77.33554984606961,148.5213239035875 77.33546798004927,148.5216388682179 77.33561246617948,148.52237787628485 77.33556824177155,148.52254813313812 77.33568185801853,148.5231288870477 77.26263038940095,148.79362107204446 77.15200726068585,149.20079436196028 77.15062549989696,149.1936636910622 76.96582270131577,149.82508759706613 76.87003180970076,149.3266398940845 76.77153557764463,148.8263067740317 76.6721031455296,148.33317563819412 76.57175823933126,147.84724407124816 76.48954134551636,147.4595965939454 76.49338503379859,146.99923288628287 77.47732600634993,146.99917371187263 77.46893738183782,147.9999148614507</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('04b1be01-1c09-4f4d-9e49-b945d930bf20')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('04b1be01-1c09-4f4d-9e49-b945d930bf20')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('04b1be01-1c09-4f4d-9e49-b945d930bf20')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('04b1be01-1c09-4f4d-9e49-b945d930bf20')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a66752c2-c7ea-4b5c-9da0-ae8d28d11124')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a66752c2-c7ea-4b5c-9da0-ae8d28d11124')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a66752c2-c7ea-4b5c-9da0-ae8d28d11124')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a66752c2-c7ea-4b5c-9da0-ae8d28d11124')/$value"
+                },
+                "Id": "a66752c2-c7ea-4b5c-9da0-ae8d28d11124",
+                "Name": "S1A_IW_OCN__2SDV_20190202T050358_20190202T050423_025746_02DCCA_66D4",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "6930211",
+                "ChildrenNumber": "0",
+                "Value": null,
+                "CreationDate": "\/Date(1549100522185)\/",
+                "IngestionDate": "\/Date(1549099567209)\/",
+                "ModificationDate": "\/Date(1583155266781)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549083838171)\/",
+                    "End": "\/Date(1549083863169)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "BF46DBE7A5412134087068E2F047AD18"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>39.276524,16.554121 39.681614,13.565280 41.182312,13.878032 40.778439,16.933847 39.276524,16.554121</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a66752c2-c7ea-4b5c-9da0-ae8d28d11124')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a66752c2-c7ea-4b5c-9da0-ae8d28d11124')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a66752c2-c7ea-4b5c-9da0-ae8d28d11124')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a66752c2-c7ea-4b5c-9da0-ae8d28d11124')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1527b6bf-f2eb-4dd2-bb05-e4d0971d218c')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1527b6bf-f2eb-4dd2-bb05-e4d0971d218c')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1527b6bf-f2eb-4dd2-bb05-e4d0971d218c')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1527b6bf-f2eb-4dd2-bb05-e4d0971d218c')/$value"
+                },
+                "Id": "1527b6bf-f2eb-4dd2-bb05-e4d0971d218c",
+                "Name": "S1A_EW_RAW__0SDV_20190202T082105_20190202T082214_025748_02DCE3_06B1",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "1065131197",
+                "ChildrenNumber": "0",
+                "Value": null,
+                "CreationDate": "\/Date(1549100534092)\/",
+                "IngestionDate": "\/Date(1549099843489)\/",
+                "ModificationDate": "\/Date(1583155272463)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549095665855)\/",
+                    "End": "\/Date(1549095734054)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "9159433BAAB16B1235F139A36A7B6295"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>42.1932,-35.2270 38.0798,-36.0637 37.6073,-31.4891 41.7095,-30.3663 42.1932,-35.2270 42.1932,-35.2270</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1527b6bf-f2eb-4dd2-bb05-e4d0971d218c')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1527b6bf-f2eb-4dd2-bb05-e4d0971d218c')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1527b6bf-f2eb-4dd2-bb05-e4d0971d218c')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('1527b6bf-f2eb-4dd2-bb05-e4d0971d218c')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('794aef3a-4229-48c9-90b5-2d2f6bc57b61')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('794aef3a-4229-48c9-90b5-2d2f6bc57b61')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('794aef3a-4229-48c9-90b5-2d2f6bc57b61')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('794aef3a-4229-48c9-90b5-2d2f6bc57b61')/$value"
+                },
+                "Id": "794aef3a-4229-48c9-90b5-2d2f6bc57b61",
+                "Name": "S1B_IW_SLC__1SDV_20190202T055443_20190202T055510_014763_01B885_F276",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "4293143179",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1549100620016)\/",
+                "IngestionDate": "\/Date(1549100466628)\/",
+                "ModificationDate": "\/Date(1583155277211)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549086883225)\/",
+                    "End": "\/Date(1549086910211)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "DAC127A6D982E8EE1E57535F104EF35D"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>31.667307,2.411707 32.079865,-0.286098 33.703011,0.035038 33.292683,2.784551 31.667307,2.411707</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('794aef3a-4229-48c9-90b5-2d2f6bc57b61')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('794aef3a-4229-48c9-90b5-2d2f6bc57b61')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('794aef3a-4229-48c9-90b5-2d2f6bc57b61')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('794aef3a-4229-48c9-90b5-2d2f6bc57b61')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ba42a8ee-a383-41d8-aff8-c61b8cc6a66c')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ba42a8ee-a383-41d8-aff8-c61b8cc6a66c')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ba42a8ee-a383-41d8-aff8-c61b8cc6a66c')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ba42a8ee-a383-41d8-aff8-c61b8cc6a66c')/$value"
+                },
+                "Id": "ba42a8ee-a383-41d8-aff8-c61b8cc6a66c",
+                "Name": "S1A_EW_GRDM_1SSH_20190202T071449_20190202T071549_025747_02DCDA_74D0",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "150258752",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1549101089943)\/",
+                "IngestionDate": "\/Date(1549100545609)\/",
+                "ModificationDate": "\/Date(1583155281233)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549091689750)\/",
+                    "End": "\/Date(1549091749745)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "67C80A5AB92C5513A778B78F2841C9D0"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>-76.144104,-64.127846 -73.156342,-73.242966 -70.832939,-63.980553 -73.421738,-54.740234 -76.144104,-64.127846</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ba42a8ee-a383-41d8-aff8-c61b8cc6a66c')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ba42a8ee-a383-41d8-aff8-c61b8cc6a66c')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ba42a8ee-a383-41d8-aff8-c61b8cc6a66c')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('ba42a8ee-a383-41d8-aff8-c61b8cc6a66c')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('2459e9dd-b7fc-44c8-9310-fc689921267d')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('2459e9dd-b7fc-44c8-9310-fc689921267d')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('2459e9dd-b7fc-44c8-9310-fc689921267d')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('2459e9dd-b7fc-44c8-9310-fc689921267d')/$value"
+                },
+                "Id": "2459e9dd-b7fc-44c8-9310-fc689921267d",
+                "Name": "S3A_SL_1_RBT____20190708T062710_20190708T063010_20190709T103720_0179_046_348_1620_LN2_O_NT_003",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "582264836",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1562674891159)\/",
+                "IngestionDate": "\/Date(1562674797613)\/",
+                "ModificationDate": "\/Date(1598827262767)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1562567229618)\/",
+                    "End": "\/Date(1562567409618)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "929C1737796D7DCBA23CFADBE7F74AD1"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>73.362,49.979 73.346,51.5725 73.318,53.1619 73.2665,54.771 73.2195,56.3549 73.1574,57.9156 73.0805,59.4522 72.9946,60.9775 72.8976,62.5055 72.7891,63.9959 72.6628,65.4859 72.5347,66.953 72.3858,68.3823 72.2338,69.8031 72.0715,71.1933 71.8986,72.5557 71.7207,73.9254 71.5277,75.2398 71.3295,76.5117 71.1197,77.7733 70.9014,79.0034 70.674,80.2067 70.4457,81.4078 70.2027,82.5511 69.9496,83.6892 69.6994,84.7857 69.4407,85.862 69.173,86.9134 68.903,87.9246 68.6211,88.9261 68.5115,89.3055 70.5391,94.3139 72.434,100.482 74.1008,107.973 75.4609,116.972 75.6173,116.669 76.0252,115.833 76.4313,114.97 76.8354,114.035 77.2416,113.045 77.6359,111.996 78.0225,110.874 78.4106,109.695 78.7963,108.425 79.1687,107.036 79.5387,105.592 79.9034,104.04 80.2545,102.391 80.6003,100.6 80.9351,98.6827 81.2603,96.6182 81.5738,94.3189 81.8723,91.9843 82.1625,89.3748 82.4268,86.6664 82.6825,83.6704 82.908,80.5056 83.1128,77.2066 83.2918,73.6182 83.4459,69.9397 83.5718,66.0441 83.6653,62.0373 83.7386,57.8583 83.7632,53.6883 83.7669,49.4617 81.1572,50.0512 78.5455,50.1939 75.9326,50.1378 73.362,49.979</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('2459e9dd-b7fc-44c8-9310-fc689921267d')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('2459e9dd-b7fc-44c8-9310-fc689921267d')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('2459e9dd-b7fc-44c8-9310-fc689921267d')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('2459e9dd-b7fc-44c8-9310-fc689921267d')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('53f37943-8c42-45b5-ba7a-97579b931bae')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('53f37943-8c42-45b5-ba7a-97579b931bae')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('53f37943-8c42-45b5-ba7a-97579b931bae')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('53f37943-8c42-45b5-ba7a-97579b931bae')/$value"
+                },
+                "Id": "53f37943-8c42-45b5-ba7a-97579b931bae",
+                "Name": "S2B_MSIL1C_20200926T221259_N0209_R115_T08XNM_20200926T223944",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "728227259",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164689226)\/",
+                "IngestionDate": "\/Date(1601164625317)\/",
+                "ModificationDate": "\/Date(1601164689226)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601158379024)\/",
+                    "End": "\/Date(1601158379024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "0FA626A9E8BE0243044BF7B5D5AA1E16"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>78.3730256712584,-135.00089 78.33207603893754,-130.1321 77.35147552687185,-130.50473 77.38915071692445,-135.00082 78.3730256712584,-135.00089</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('53f37943-8c42-45b5-ba7a-97579b931bae')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('53f37943-8c42-45b5-ba7a-97579b931bae')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('53f37943-8c42-45b5-ba7a-97579b931bae')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('53f37943-8c42-45b5-ba7a-97579b931bae')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('859520bd-c715-4bb7-9ba3-7563c967798e')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('859520bd-c715-4bb7-9ba3-7563c967798e')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('859520bd-c715-4bb7-9ba3-7563c967798e')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('859520bd-c715-4bb7-9ba3-7563c967798e')/$value"
+                },
+                "Id": "859520bd-c715-4bb7-9ba3-7563c967798e",
+                "Name": "S2B_MSIL2A_20200926T034539_N0214_R104_T54XVN_20200926T063751",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "219969780",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1601164700917)\/",
+                "IngestionDate": "\/Date(1601164636572)\/",
+                "ModificationDate": "\/Date(1601164700917)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1601091939024)\/",
+                    "End": "\/Date(1601091939024)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "1A79504EC3624883ED3D4DCF9B9C6157"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>78.26368383410242,138.33709007153487 78.30169144419382,138.48575320473017 78.41802344494192,138.95097243874238 78.53364506798589,139.42539069336723 78.64840744574775,139.91104822372236 78.76235229845351,140.40729206319665 78.87414098701137,140.90712536754938 78.78842616308286,141.4501769745542 78.78837228429185,141.45051746385863 78.28507194679452,141.4305971021875 78.26368383410242,138.33709007153487</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('859520bd-c715-4bb7-9ba3-7563c967798e')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('859520bd-c715-4bb7-9ba3-7563c967798e')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('859520bd-c715-4bb7-9ba3-7563c967798e')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('859520bd-c715-4bb7-9ba3-7563c967798e')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a8a12ec7-3d39-4ba6-95e4-a0267ad544a4')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a8a12ec7-3d39-4ba6-95e4-a0267ad544a4')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a8a12ec7-3d39-4ba6-95e4-a0267ad544a4')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a8a12ec7-3d39-4ba6-95e4-a0267ad544a4')/$value"
+                },
+                "Id": "a8a12ec7-3d39-4ba6-95e4-a0267ad544a4",
+                "Name": "S1B_EW_RAW__0SDH_20190202T053805_20190202T053913_014763_01B884_0B8D",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "1073698530",
+                "ChildrenNumber": "0",
+                "Value": null,
+                "CreationDate": "\/Date(1549099814229)\/",
+                "IngestionDate": "\/Date(1549099387504)\/",
+                "ModificationDate": "\/Date(1583155260226)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1549085885388)\/",
+                    "End": "\/Date(1549085953588)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "521BC0D9C65395C7583D3FF8B0DFA04A"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>85.6905,150.4420 87.4422,82.1415 83.8018,89.8524 82.8922,125.4789 85.6905,150.4420 85.6905,150.4420</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a8a12ec7-3d39-4ba6-95e4-a0267ad544a4')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a8a12ec7-3d39-4ba6-95e4-a0267ad544a4')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a8a12ec7-3d39-4ba6-95e4-a0267ad544a4')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('a8a12ec7-3d39-4ba6-95e4-a0267ad544a4')/Class"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://scihub.copernicus.eu/dhus/odata/v1/Products('22de88a6-6f0d-42bb-a196-7dfecb1ee68c')",
+                    "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('22de88a6-6f0d-42bb-a196-7dfecb1ee68c')",
+                    "type": "DHuS.Product",
+                    "content_type": "application/octet-stream",
+                    "media_src": "https://scihub.copernicus.eu/dhus/odata/v1/Products('22de88a6-6f0d-42bb-a196-7dfecb1ee68c')/$value",
+                    "edit_media": "https://scihub.copernicus.eu/dhus/odata/v1/Products('22de88a6-6f0d-42bb-a196-7dfecb1ee68c')/$value"
+                },
+                "Id": "22de88a6-6f0d-42bb-a196-7dfecb1ee68c",
+                "Name": "S3A_SY_2_VG1____20190703T111721_20190704T111721_20190709T114352_EUROPE____________LN2_O_NT_002",
+                "ContentType": "application/octet-stream",
+                "ContentLength": "132479064",
+                "ChildrenNumber": "2",
+                "Value": null,
+                "CreationDate": "\/Date(1562674645927)\/",
+                "IngestionDate": "\/Date(1562674620341)\/",
+                "ModificationDate": "\/Date(1562674620341)\/",
+                "EvictionDate": null,
+                "Online": false,
+                "OnDemand": false,
+                "ContentDate": {
+                    "__metadata": {
+                        "type": "DHuS.TimeRange"
+                    },
+                    "Start": "\/Date(1562152641000)\/",
+                    "End": "\/Date(1562239041000)\/"
+                },
+                "Checksum": {
+                    "__metadata": {
+                        "type": "DHuS.Checksum"
+                    },
+                    "Algorithm": "MD5",
+                    "Value": "5BB8AA428C633E0E3203CA309548B289"
+                },
+                "ContentGeometry": "<gml:Polygon srsName=\"http://www.opengis.net/gml/srs/epsg.xml#4326\" xmlns:gml=\"http://www.opengis.net/gml\">\n   <gml:outerBoundaryIs>\n      <gml:LinearRing>\n         <gml:coordinates>25.0045,-10.9955 25.0045,-7.15625 25.0045,-3.31696 25.0045,0.522321 25.0045,4.36161 25.0045,8.20089 25.0045,12.0402 25.0045,15.8795 25.0045,19.7187 25.0045,23.558 25.0045,27.3973 25.0045,31.2366 25.0045,35.0759 25.0045,38.9152 25.0045,42.7545 25.0045,46.5937 25.0045,50.433 25.0045,54.2723 25.0045,58.1116 25.0045,61.9509 25.0045,61.9955 25.1027,61.9955 25.4955,61.9955 25.8884,61.9955 26.2813,61.9955 26.6741,61.9955 27.067,61.9955 27.4598,61.9955 27.8527,61.9955 28.2455,61.9955 28.6384,61.9955 29.0313,61.9955 29.4241,61.9955 29.817,61.9955 30.2098,61.9955 30.6027,61.9955 30.9955,61.9955 31.3884,61.9955 31.7813,61.9955 32.1741,61.9955 32.567,61.9955 32.9598,61.9955 33.3527,61.9955 33.7455,61.9955 34.1384,61.9955 34.5313,61.9955 34.9241,61.9955 35.317,61.9955 35.7098,61.9955 36.1027,61.9955 36.4955,61.9955 36.8884,61.9955 37.2813,61.9955 37.6741,61.9955 38.067,61.9955 38.4598,61.9955 38.8527,61.9955 39.2455,61.9955 39.6384,61.9955 40.0313,61.9955 40.4241,61.9955 40.817,61.9955 41.2098,61.9955 41.6027,61.9955 41.9955,61.9955 42.3884,61.9955 42.7813,61.9955 43.1741,61.9955 43.567,61.9955 43.9598,61.9955 44.3527,61.9955 44.7455,61.9955 45.1384,61.9955 45.5313,61.9955 45.9241,61.9955 46.317,61.9955 46.7098,61.9955 47.1027,61.9955 47.4955,61.9955 47.8884,61.9955 48.2813,61.9955 48.6741,61.9955 49.067,61.9955 49.4598,61.9955 49.8527,61.9955 50.2455,61.9955 50.6384,61.9955 51.0313,61.9955 51.4241,61.9955 51.817,61.9955 52.2098,61.9955 52.6027,61.9955 52.9955,61.9955 53.3884,61.9955 53.7813,61.9955 54.1741,61.9955 54.567,61.9955 54.9598,61.9955 55.3527,61.9955 55.7455,61.9955 56.1384,61.9955 56.5313,61.9955 56.9241,61.9955 57.317,61.9955 57.7098,61.9955 58.1027,61.9955 58.4955,61.9955 58.8884,61.9955 59.2813,61.9955 59.6741,61.9955 60.067,61.9955 60.4598,61.9955 60.8527,61.9955 61.2455,61.9955 61.6384,61.9955 62.0313,61.9955 62.4241,61.9955 62.817,61.9955 63.2098,61.9955 63.6027,61.9955 63.9955,61.9955 64.3884,61.9955 64.7813,61.9955 65.1741,61.9955 65.567,61.9955 65.9598,61.9955 66.3527,61.9955 66.7455,61.9955 67.1384,61.9955 67.5313,61.9955 67.9241,61.9955 68.317,61.9955 68.7098,61.9955 69.1027,61.9955 69.4955,61.9955 69.8884,61.9955 70.2813,61.9955 70.6741,61.9955 71.067,61.9955 71.4598,61.9955 71.8527,61.9955 72.2455,61.9955 72.6384,61.9955 73.0313,61.9955 73.4241,61.9955 73.817,61.9955 74.2098,61.9955 74.6027,61.9955 74.9955,61.9955 74.9955,61.9509 74.9955,58.1116 74.9955,54.2723 74.9955,50.433 74.9955,46.5937 74.9955,42.7545 74.9955,38.9152 74.9955,35.0759 74.9955,31.2366 74.9955,27.3973 74.9955,23.558 74.9955,19.7187 74.9955,15.8795 74.9955,12.0402 74.9955,8.20089 74.9955,4.36161 74.9955,0.522321 74.9955,-3.31696 74.9955,-7.15625 74.9955,-10.9955 74.6027,-10.9955 74.2098,-10.9955 73.817,-10.9955 73.4241,-10.9955 73.0313,-10.9955 72.6384,-10.9955 72.2455,-10.9955 71.8527,-10.9955 71.4598,-10.9955 71.067,-10.9955 70.6741,-10.9955 70.2813,-10.9955 69.8884,-10.9955 69.4955,-10.9955 69.1027,-10.9955 68.7098,-10.9955 68.317,-10.9955 67.9241,-10.9955 67.5313,-10.9955 67.1384,-10.9955 66.7455,-10.9955 66.3527,-10.9955 65.9598,-10.9955 65.567,-10.9955 65.1741,-10.9955 64.7813,-10.9955 64.3884,-10.9955 63.9955,-10.9955 63.6027,-10.9955 63.2098,-10.9955 62.817,-10.9955 62.4241,-10.9955 62.0313,-10.9955 61.6384,-10.9955 61.2455,-10.9955 60.8527,-10.9955 60.4598,-10.9955 60.067,-10.9955 59.6741,-10.9955 59.2813,-10.9955 58.8884,-10.9955 58.4955,-10.9955 58.1027,-10.9955 57.7098,-10.9955 57.317,-10.9955 56.9241,-10.9955 56.5313,-10.9955 56.1384,-10.9955 55.7455,-10.9955 55.3527,-10.9955 54.9598,-10.9955 54.567,-10.9955 54.1741,-10.9955 53.7813,-10.9955 53.3884,-10.9955 52.9955,-10.9955 52.6027,-10.9955 52.2098,-10.9955 51.817,-10.9955 51.4241,-10.9955 51.0313,-10.9955 50.6384,-10.9955 50.2455,-10.9955 49.8527,-10.9955 49.4598,-10.9955 49.067,-10.9955 48.6741,-10.9955 48.2813,-10.9955 47.8884,-10.9955 47.4955,-10.9955 47.1027,-10.9955 46.7098,-10.9955 46.317,-10.9955 45.9241,-10.9955 45.5313,-10.9955 45.1384,-10.9955 44.7455,-10.9955 44.3527,-10.9955 43.9598,-10.9955 43.567,-10.9955 43.1741,-10.9955 42.7813,-10.9955 42.3884,-10.9955 41.9955,-10.9955 41.6027,-10.9955 41.2098,-10.9955 40.817,-10.9955 40.4241,-10.9955 40.0313,-10.9955 39.6384,-10.9955 39.2455,-10.9955 38.8527,-10.9955 38.4598,-10.9955 38.067,-10.9955 37.6741,-10.9955 37.2813,-10.9955 36.8884,-10.9955 36.4955,-10.9955 36.1027,-10.9955 35.7098,-10.9955 35.317,-10.9955 34.9241,-10.9955 34.5313,-10.9955 34.1384,-10.9955 33.7455,-10.9955 33.3527,-10.9955 32.9598,-10.9955 32.567,-10.9955 32.1741,-10.9955 31.7813,-10.9955 31.3884,-10.9955 30.9955,-10.9955 30.6027,-10.9955 30.2098,-10.9955 29.817,-10.9955 29.4241,-10.9955 29.0313,-10.9955 28.6384,-10.9955 28.2455,-10.9955 27.8527,-10.9955 27.4598,-10.9955 27.067,-10.9955 26.6741,-10.9955 26.2813,-10.9955 25.8884,-10.9955 25.4955,-10.9955 25.1027,-10.9955 25.0045,-10.9955</gml:coordinates>\n      </gml:LinearRing>\n   </gml:outerBoundaryIs>\n</gml:Polygon>",
+                "Products": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('22de88a6-6f0d-42bb-a196-7dfecb1ee68c')/Products"
+                    }
+                },
+                "Nodes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('22de88a6-6f0d-42bb-a196-7dfecb1ee68c')/Nodes"
+                    }
+                },
+                "Attributes": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('22de88a6-6f0d-42bb-a196-7dfecb1ee68c')/Attributes"
+                    }
+                },
+                "Class": {
+                    "__deferred": {
+                        "uri": "https://scihub.copernicus.eu/dhus/odata/v1/Products('22de88a6-6f0d-42bb-a196-7dfecb1ee68c')/Class"
+                    }
+                }
+            }
+        ]
+    }
+}
